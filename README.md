@@ -27,5 +27,5 @@ Bienvenido a mi espacio en GitHub. Soy **ingeniero de software** con una orienta
 
 
 📫 **Contacto profesional**:  
-[LinkedIn]([https://linkedin.com/in/tu-nombre](https://www.linkedin.com/in/iv%C3%A1n-arteta-triguero-8712a0207/) · [Email](mailto:ivanarteta97@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/iv%C3%A1n-arteta-triguero-8712a0207/) · [Email](mailto:ivanarteta97@gmail.com)
 
