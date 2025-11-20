@@ -1,5 +1,5 @@
 # 👨‍💻 Team Lead & Software Engineer  
-## Full Stack · GIS · Arquitecturas Escalables · Dev Leadership
+## Dev Leadership · Full Stack · Arquitecturas Escalables · GIS  
 
 ---
 
